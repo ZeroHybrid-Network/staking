@@ -1,0 +1,3 @@
+window.GeneralConfig = {
+    network: "mainnet"
+};
